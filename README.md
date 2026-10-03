@@ -41,9 +41,9 @@ project(Supply_Chain_Mgmt)/<br>
 
 ## Dashboard Preview
 
-![Project Image](./assets/page1.png) <br>
-![Project Image2](./assets/page2.png) <br>
-![Project Image3](./assets/page3.png)
+![Project Image](./visuals/page1.png) <br>
+![Project Image2](./visuals/page2.png) <br>
+![Project Image3](./visuals/page3.png)
 
 
 ## Contributing
